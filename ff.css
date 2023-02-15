@@ -1,0 +1,8 @@
+#kép{
+    width:80%;
+    border-radius: 20%;
+}
+body{
+    background-image: url(backround.jpg);
+    position: fixed;
+}
